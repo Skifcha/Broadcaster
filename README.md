@@ -8,6 +8,8 @@ iBeacon settings can be changed in Constants.swift file, but I suggest to keep i
 You need a developer or personal (free) Apple account to run on a real device. 
 Select your account under ["General"](http://take.ms/BKe1N) tab in project settings and run the project.
 
+If you are using free Apple account, verify the Developer App certificate for your account is trusted on your device. Open Settings on your device and navigate to General -> Device Management, then select your Developer App certificate to trust it.
+
 It may ask you to change "Bundle Identifier". You can do it on the same page, just change it to whatever unique and run the project.
 
 # Pros
